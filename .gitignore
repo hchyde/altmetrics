@@ -6,3 +6,4 @@ notes/
 .RData
 .Ruserdata
 .Rproj.user/
+*.Rproj
